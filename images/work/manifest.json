@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "file": "estate-gardens",
+      "title": "Landscaped residential estate",
+      "cat": "Estates",
+      "w": 2000,
+      "h": 924
+    },
+    {
+      "file": "estate-homes",
+      "title": "Modern homes in a gated estate",
+      "cat": "Estates",
+      "w": 1800,
+      "h": 832
+    },
+    {
+      "file": "ceiling-framing",
+      "title": "Ceiling framing in progress",
+      "cat": "Construction",
+      "w": 1800,
+      "h": 832
+    },
+    {
+      "file": "glass-staircase-hall",
+      "title": "Double-height hall with floating glass staircase",
+      "cat": "Interiors",
+      "w": 832,
+      "h": 1800
+    },
+    {
+      "file": "glass-staircase",
+      "title": "Steel and timber staircase with glass balustrade",
+      "cat": "Interiors",
+      "w": 832,
+      "h": 1800
+    }
+  ]
+}
