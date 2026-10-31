@@ -1,5 +1,0 @@
-# Search engines and AI assistants are welcome to read this site.
-User-agent: *
-Allow: /
-
-Sitemap: https://www.franktechenterprises.co.ke/sitemap.xml
